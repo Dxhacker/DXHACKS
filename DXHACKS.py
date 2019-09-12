@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mDXHACKER\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mPAKISAN DXHACKER TEAM\x1b[1;97m \x1b[1;97mFACEBOOK 👈  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/Dxhacks\x1b[0m\n'
+logo = '\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mDXHACKER\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mPAKISAN DXHACKER TEAM\x1b[1;97m \x1b[1;97mFACEBOOK ðŸ‘ˆ  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://facebook.comdxhacker.official\x1b[0m\n'
 
 def tik():
     titik = [
@@ -64,10 +64,10 @@ def login():
     except (KeyError, IOError):
         os.system('clear')
         print logo
-        print 40 * '\x1b[1;97m\xe2\x95\x90'
+        print 40 â€¢ '\x1b[1;97m\xe2\x95\x90'
         print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mLOGIN FACEBOOK ACCOUNT \x1b[1;91m[\xe2\x98\x86]'
-        id = raw_input('\x1b[1;91m[∆] \x1b[1;36mUsername FB \x1b[1;91m:\x1b[1;92m ')
-        pwd = getpass.getpass('\x1b[1;91m[∆] \x1b[1;36mPassword FB \x1b[1;91m:\x1b[1;92m ')
+        id = raw_input('\x1b[1;91m[âˆ†] \x1b[1;36mUsername FB \x1b[1;91m:\x1b[1;92m ')
+        pwd = getpass.getpass('\x1b[1;91m[âˆ†] \x1b[1;36mPassword FB \x1b[1;91m:\x1b[1;92m ')
         tik()
         try:
             br.open('https://m.facebook.com')
