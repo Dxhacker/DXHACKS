@@ -175,8 +175,6 @@ def pilih():
                         lain()
                     else:
                         if zedd == '5':
-                            os.system('rm -rf login.txt')
-                            os.system('xdg-open https://wwe.facebook.com/Dxhacker.official')
                             keluar()
                         else:
                             if zedd == '0':
