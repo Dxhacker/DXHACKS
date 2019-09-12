@@ -23,7 +23,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mDXHACKER\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mPAKISAN DXHACKER TEAM\x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mGUNAKAN DENGAN BIJAK \x1b[1;97m/ \x1b[1;96mMR.K7C8NG\n\x1b[1;93m* \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/Dxhacks\x1b[0m\n'
+logo = '\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mDXHACKER\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mSupport \x1b[1;91m: \x1b[1;96mPAKISAN DXHACKER TEAM\x1b[1;97m \x1b[1;97mGitHub  \x1b[1;91m: \x1b[1;92m\x1b[4mhttps://github.com/Dxhacks\x1b[0m\n'
 
 def tik():
     titik = [
